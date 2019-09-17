@@ -1,0 +1,9 @@
+Reading dictionary file
+
+ ERROR - Word length is out of scope. Not adding:  c
+
+ ERROR - Word -  dnrbt  is already present in dictionary. 
+
+ Reading input file
+Result - Case# 1 : 3
+Result - Case# 2 : 1
