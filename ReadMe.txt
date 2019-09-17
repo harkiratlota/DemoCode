@@ -11,8 +11,8 @@ the first and last letter must be maintained while the middle characters can be 
 #Prerequisites
 
 1. Place both input files on desktop. 
-2. Change "username" to respective username for your machine
-3. Pick path directory based on Windows/Mac OS
+2. Change "username" to respective username of your machine
+3. Select path directory based on Windows/Mac OS
 Total 3 files to be passed as arguments in the order given below:
 
 For Windows 
